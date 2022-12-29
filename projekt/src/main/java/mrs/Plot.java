@@ -17,8 +17,8 @@ public class Plot {
     }
      public void plot(){
         int n = t.length;
-        XYSeries series1= new XYSeries("Dokładna");
-         XYSeries series2= new XYSeries("Wynik");
+        XYSeries series1= new XYSeries("Wynik Dokładny");
+         XYSeries series2= new XYSeries("Wynik Przybliżony");
         for(int i=0;i<n;i++){
             series1.add(t[i],accurate[i]);
             series2.add(t[i], result[i]);

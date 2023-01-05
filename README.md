@@ -1,6 +1,5 @@
 # MRS_Projekt
-# rozwiazać metodą MRS następujące równanie różniczkowe:
-#−𝑢″ + 𝑢′ + 2𝑢 = 𝑥^3 + 𝑥, 𝑢′(0) = 1, 𝑢(1) + 𝑢′(1) = 0
+# rozwiazać metodą MRS następujące równanie różniczkowe: −𝑢″ + 𝑢′ + 2𝑢 = 𝑥^3 + 𝑥, 𝑢′(0) = 1, 𝑢(1) + 𝑢′(1) = 0
 #Rozwiązanie ma zawierać :
 #1. Wyprowadzenie układu równań dla rozwiązywanego problemu.
 #2. Układ równań można rozwiązać wykorzystując dostępne algorytmy numeryczne.
